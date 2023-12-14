@@ -1,3 +1,9 @@
+.container__menu-bar {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
 .container__menu-bar > ul{
 	display: flex;
 	list-style: none;
